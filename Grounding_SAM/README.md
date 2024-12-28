@@ -10,9 +10,12 @@ SAM - for segmentation <br>
 
 ## Working video with FastAPI, SwaggerUI <br>
 
-can skip to 34th second, to watch results<br>
+can skip to 50th second, to watch results<br>
 
-https://github.com/user-attachments/assets/0d6b7761-a304-43a1-bfff-6c99f2daa92d
+https://github.com/user-attachments/assets/9dbac217-fb56-48a2-bab4-91396baf8321
+
+
+
 
 
 
