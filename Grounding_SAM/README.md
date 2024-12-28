@@ -1,6 +1,6 @@
 # Integration of object localization and SAM 
 It includes 2 algos: <br>
-Grounding DINO - for object localization <br>
+Model backbone (DINO) - for object localization <br>
 SAM - for segmentation <br>
 
 ## Input image
